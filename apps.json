@@ -1,10 +1,24 @@
 callback([
-  {
-    "name": "Matriculation Number Calculator",
-    "description": "Get the last digit of an NUS student's matriculation number!",
-    "url": "",
-    "repository_url": "",
-    "icon_url": "",
-    "tags": ["matriculation", "number", "calculator"]
-  }
+{
+  "name": "Matriculation Number Calculator",
+  "description": "Get the last digit of an NUS student's matriculation number!",
+  "url": "",
+  "repository_url": "",
+  "icon_url": "",
+  "tags": ["matriculation", "number", "calculator"]
+},
+{
+  "name": "NUS Exam Timetable",
+  "description": "Check the exam venues of all the modules you are taking.",
+  "url": "https://aces01.nus.edu.sg/examtt/",
+  "tags": ["examinations", "timetable"]
+}
+{
+  "name": "Capulator",
+  "description": "Import your grades from your transcript and calculate your CAP!",
+  "url": "http://yangshun.im/capulator",
+  "repository_url": "",
+  "icon_url": "",
+  "tags": ["matriculation", "number", "calculator"]
+}
 ]);
