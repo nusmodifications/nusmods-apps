@@ -1,4 +1,4 @@
-[
+callback([
   {
     "name": "Matriculation Number Calculator",
     "description": "Get the last digit of an NUS student's matriculation number!",
@@ -7,4 +7,4 @@
     "icon_url": "",
     "tags": ["matriculation", "number", "calculator"]
   }
-]
+]);
