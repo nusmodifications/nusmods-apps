@@ -2,6 +2,7 @@ callback([
 {
   "name": "MODIVLE",
   "description": "An NUS IVLE client. IVLE minus the clutter!",
+  "author": "Michael Yong",
   "url": "http://modivle.ymichael.com/",
   "repository_url": "https://github.com/ymichael/modivle",
   "icon_url": "https://raw.githubusercontent.com/nusmodifications/modivle/master/public/img/logo/logoforfb.png",
@@ -9,6 +10,7 @@ callback([
 },
 {
   "name": "Matriculation Number Calculator",
+  "author": "Eu Beng Hee",
   "description": "Get the last digit of an NUS student's matriculation number!",
   "url": "",
   "repository_url": "",
@@ -17,12 +19,14 @@ callback([
 },
 {
   "name": "NUS Exam Timetable",
+  "author": "NUS",
   "description": "Check the exam venues of all the modules you are taking.",
   "url": "https://aces01.nus.edu.sg/examtt/",
   "tags": ["examinations", "timetable"]
 },
 {
   "name": "Capulator",
+  "author": "Tay Yang Shun",
   "description": "Import your grades from your transcript and calculate your CAP!",
   "url": "http://yangshun.im/capulator",
   "repository_url": "",
