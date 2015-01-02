@@ -1,5 +1,13 @@
 callback([
 {
+  "name": "MODIVLE",
+  "description": "An NUS IVLE client. IVLE minus the clutter!",
+  "url": "http://modivle.ymichael.com/",
+  "repository_url": "https://github.com/ymichael/modivle",
+  "icon_url": "https://raw.githubusercontent.com/nusmodifications/modivle/master/public/img/logo/logoforfb.png",
+  "tags": ["matriculation", "number", "calculator"]
+},
+{
   "name": "Matriculation Number Calculator",
   "description": "Get the last digit of an NUS student's matriculation number!",
   "url": "",
