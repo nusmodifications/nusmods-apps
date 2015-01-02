@@ -5,7 +5,7 @@ callback([
   "url": "http://modivle.ymichael.com/",
   "repository_url": "https://github.com/ymichael/modivle",
   "icon_url": "https://raw.githubusercontent.com/nusmodifications/modivle/master/public/img/logo/logoforfb.png",
-  "tags": ["matriculation", "number", "calculator"]
+  "tags": ["ivle", "client", "modivle"]
 },
 {
   "name": "Matriculation Number Calculator",
@@ -27,6 +27,6 @@ callback([
   "url": "http://yangshun.im/capulator",
   "repository_url": "",
   "icon_url": "",
-  "tags": ["matriculation", "number", "calculator"]
+  "tags": ["capulator", "matriculation", "number", "calculator"]
 }
 ]);
