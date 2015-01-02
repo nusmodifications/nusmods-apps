@@ -12,7 +12,7 @@ callback([
   "description": "Check the exam venues of all the modules you are taking.",
   "url": "https://aces01.nus.edu.sg/examtt/",
   "tags": ["examinations", "timetable"]
-}
+},
 {
   "name": "Capulator",
   "description": "Import your grades from your transcript and calculate your CAP!",
