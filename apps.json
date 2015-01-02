@@ -9,6 +9,15 @@ callback([
   "tags": ["ivle", "client", "modivle"]
 },
 {
+  "name": "NUS IVLE Downloader",
+  "description": "Dropbox-like solution to automatically download IVLE workbin files into your computer!",
+  "author": "Yao Yujian",
+  "url": "http://yjyao.com/2012/08/nus-ivle-downloader.html",
+  "repository_url": "https://github.com/yyjhao/IVLEDownloader",
+  "icon_url": "https://raw.githubusercontent.com/yyjhao/IVLEDownloader/master/icon.png",
+  "tags": ["ivle", "downloader", "dropbox", "files"]
+},
+{
   "name": "Matriculation Number Calculator",
   "author": "Eu Beng Hee",
   "description": "Get the last digit of an NUS student's matriculation number!",
