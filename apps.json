@@ -29,7 +29,7 @@ callback([
 {
   "name": "NUS Exam Timetable",
   "author": "NUS",
-  "description": "Check the exam venues of all the modules you are taking.",
+  "description": "Check the exam venues and seat numbers of the modules you are taking.",
   "url": "https://aces01.nus.edu.sg/examtt/",
   "tags": ["examinations", "timetable"]
 },
