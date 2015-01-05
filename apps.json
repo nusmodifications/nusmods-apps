@@ -31,6 +31,7 @@ callback([
   "author": "NUS",
   "description": "Check the exam venues and seat numbers of the modules you are taking.",
   "url": "https://aces01.nus.edu.sg/examtt/",
+  "icon_url": "https://raw.githubusercontent.com/nusmodifications/nusmods-apps/gh-pages/images/nus-logo.png",
   "tags": ["examinations", "timetable"]
 }
 ])
