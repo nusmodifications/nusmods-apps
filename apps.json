@@ -21,8 +21,8 @@ callback([
   "name": "Matriculation Number Calculator",
   "author": "Eu Beng Hee",
   "description": "Get the last digit of an NUS student's matriculation number!",
-  "url": "",
-  "repository_url": "",
+  "url": "http://nusmodifications.github.io/nus-matriculation-number-calculator/",
+  "repository_url": "https://github.com/nusmodifications/nus-matriculation-number-calculator",
   "icon_url": "",
   "tags": ["matriculation", "number", "calculator"]
 },
