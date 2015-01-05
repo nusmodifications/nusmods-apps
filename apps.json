@@ -14,7 +14,7 @@ callback([
   "author": "Yao Yujian",
   "url": "http://yjyao.com/2012/08/nus-ivle-downloader.html",
   "repository_url": "https://github.com/yyjhao/IVLEDownloader",
-  "icon_url": "https://raw.githubusercontent.com/yyjhao/IVLEDownloader/master/icon.png",
+  "icon_url": "https://raw.githubusercontent.com/yyjhao/IVLEDownloader/master/icon-256.png",
   "tags": ["ivle", "downloader", "dropbox", "files"]
 },
 {
