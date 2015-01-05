@@ -23,7 +23,7 @@ callback([
   "description": "Get the last digit of an NUS student's matriculation number!",
   "url": "http://nusmodifications.github.io/nus-matriculation-number-calculator/",
   "repository_url": "https://github.com/nusmodifications/nus-matriculation-number-calculator",
-  "icon_url": "",
+  "icon_url": "https://raw.githubusercontent.com/nusmodifications/nus-matriculation-number-calculator/gh-pages/apple-touch-icon.png",
   "tags": ["matriculation", "number", "calculator"]
 },
 {
@@ -32,14 +32,5 @@ callback([
   "description": "Check the exam venues and seat numbers of the modules you are taking.",
   "url": "https://aces01.nus.edu.sg/examtt/",
   "tags": ["examinations", "timetable"]
-},
-{
-  "name": "Capulator",
-  "author": "Tay Yang Shun",
-  "description": "Import your grades from your transcript and calculate your CAP!",
-  "url": "http://yangshun.im/capulator",
-  "repository_url": "",
-  "icon_url": "",
-  "tags": ["capulator", "matriculation", "number", "calculator"]
 }
 ])
