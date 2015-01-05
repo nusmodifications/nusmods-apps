@@ -11,7 +11,7 @@ Modify `apps.json` and submit a pull request! Please adhere to the following for
   "author": "Author of the application",
   "url": "Live site or app download link",
   "repository_url": "Source code for the application (optional)",
-  "icon_url": "Icon for the application",
+  "icon_url": "Icon for the application. You may add it into the '/images' folder if it isn't hosted elsewhere",
   "tags": ["list", "of", "strings"]
 }
 ```
