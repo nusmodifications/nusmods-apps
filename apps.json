@@ -1,4 +1,3 @@
-callback([
 {
   "name": "MODIVLE",
   "description": "An NUS IVLE client. IVLE minus the clutter!",
@@ -42,4 +41,3 @@ callback([
   "icon_url": "",
   "tags": ["capulator", "matriculation", "number", "calculator"]
 }
-]);
