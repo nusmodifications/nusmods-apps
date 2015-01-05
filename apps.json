@@ -1,4 +1,4 @@
-{
+[{
   "name": "MODIVLE",
   "description": "An NUS IVLE client. IVLE minus the clutter!",
   "author": "Michael Yong",
@@ -40,4 +40,4 @@
   "repository_url": "",
   "icon_url": "",
   "tags": ["capulator", "matriculation", "number", "calculator"]
-}
+}]
