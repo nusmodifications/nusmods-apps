@@ -35,6 +35,14 @@ callback([
   "tags": ["ivle"]
 },
 {
+  "name": "NUS NextBus",
+  "author": "NUS",
+  "description": "Download the NUS Next Bus application to get up-to-the-minute bus schedules and be informed well ahead of the next bus’ arrival time. The application also comes with detailed maps of the bus stop locations and the user’s current location within NUS.",
+  "url": "https://itunes.apple.com/sg/app/nus-nextbus/id542131822",
+  "icon_url": "http://a1.mzstatic.com/us/r30/Purple/v4/42/1b/5f/421b5fdd-ce6d-786c-3980-f9c9326d6af2/icon350x350.jpeg",
+  "tags": ["next", "bus", "stop"]
+},
+{
   "name": "NUS Exam Timetable",
   "author": "NUS",
   "description": "Check the exam venues and seat numbers of the modules you are taking.",
