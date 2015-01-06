@@ -49,5 +49,13 @@ callback([
   "url": "https://aces01.nus.edu.sg/examtt/",
   "icon_url": "https://raw.githubusercontent.com/nusmodifications/nusmods-apps/gh-pages/images/nus-logo.png",
   "tags": ["examinations", "timetable"]
+},
+{
+  "name": "NUS Carparks",
+  "author": "NUS",
+  "description": "Get up-to-the-minute carparks availability information within the National University of Singapore (NUS). The application also comes with detailed maps of the carparks locations and the user's current location in NUS.",
+  "url": "https://itunes.apple.com/sg/app/nus-carparks/id574346885?mt=8",
+  "icon_url": "http://a3.mzstatic.com/us/r30/Purple/v4/dc/d8/f1/dcd8f172-1446-9213-7596-41d779e8fa51/icon350x350.png",
+  "tags": ["car", "carparks", "vehicles"]
 }
 ])
