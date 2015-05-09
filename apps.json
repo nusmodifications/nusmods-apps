@@ -57,5 +57,13 @@ callback([
   "url": "https://itunes.apple.com/sg/app/nus-carparks/id574346885?mt=8",
   "icon_url": "http://a3.mzstatic.com/us/r30/Purple/v4/dc/d8/f1/dcd8f172-1446-9213-7596-41d779e8fa51/icon350x350.png",
   "tags": ["car", "carparks", "vehicles"]
+},
+{
+  "name": "NUS Past Year Papers Downloader",
+  "author": "NUS",
+  "description": "A helpful tool for you to download past year papers from the library portals easily.",
+  "url": "https://exams.nusmods.com",
+  "icon_url": "http://exams.nusmods.com/img/nus-exams-macbook.png",
+  "tags": ["examinations", "downloader"]
 }
 ])
