@@ -62,7 +62,7 @@ callback([
   "name": "NUS Past Year Papers Downloader",
   "author": "Oh Shunhao, Liu Xinan and Tay Yang Shun",
   "description": "A helpful tool for you to download past year papers from the library portals easily.",
-  "url": "https://exams.nusmods.com",
+  "url": "http://exams.nusmods.com",
   "icon_url": "http://exams.nusmods.com/img/nus-exams-macbook.png",
   "tags": ["examinations", "downloader"]
 }
