@@ -65,5 +65,14 @@ callback([
   "url": "http://exams.nusmods.com",
   "icon_url": "http://exams.nusmods.com/img/nus-exams-macbook.png",
   "tags": ["examinations", "downloader"]
+},
+{
+  "name": "NUS Cap Calculator",
+  "author": "Jiang Sheng, Lei Mingyu and Wang Jinghan",
+  "description": "A CAP caculator that helps you to manage and share grades.",
+  "url": "https://itunes.apple.com/nz/app/capcalc-nus/id959237973?mt=8",
+  "icon_url": "http://a3.mzstatic.com/nz/r30/Purple7/v4/fd/e4/7b/fde47b34-aee0-c84c-ff62-6970337108a7/icon175x175.jpeg",
+  "repository_url": "https://github.com/Echx/CapCalc",
+  "tags": ["CAP", "calculator"]
 }
 ])
