@@ -74,5 +74,13 @@ callback([
   "icon_url": "http://a3.mzstatic.com/nz/r30/Purple7/v4/fd/e4/7b/fde47b34-aee0-c84c-ff62-6970337108a7/icon175x175.jpeg",
   "repository_url": "https://github.com/Echx/CapCalc",
   "tags": ["CAP", "calculator"]
+},
+{
+  "name": "BusPath for Pebble",
+  "author": "Poh Wei Cheng",
+  "description": "Get up-to-the-minute bus arrival timing for SBS, SMRT and NUS right from your wrist.",
+  "url": "http://apps.getpebble.com/en_US/application/530f60a4b7c4a9957400001a",
+  "icon_url": "https://assets.getpebble.com/api/file/PYUmPYRjSKqAtYfXdUv9/convert?cache=true&fit=crop&w=144&h=168,
+  "tags": ["next", "bus", "stop"]
 }
 ])
