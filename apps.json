@@ -80,7 +80,7 @@ callback([
   "author": "Poh Wei Cheng",
   "description": "Get up-to-the-minute bus arrival timing for SBS, SMRT and NUS right from your wrist.",
   "url": "http://apps.getpebble.com/en_US/application/530f60a4b7c4a9957400001a",
-  "icon_url": "https://assets.getpebble.com/api/file/PYUmPYRjSKqAtYfXdUv9/convert?cache=true&fit=crop&w=144&h=168,
+  "icon_url": "https://assets.getpebble.com/api/file/PYUmPYRjSKqAtYfXdUv9/convert?cache=true&fit=crop&w=144&h=168",
   "tags": ["next", "bus", "stop"]
 }
 ])
