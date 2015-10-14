@@ -83,4 +83,13 @@ callback([
   "icon_url": "https://assets.getpebble.com/api/file/PYUmPYRjSKqAtYfXdUv9/convert?cache=true&fit=crop&w=144&h=168",
   "tags": ["next", "bus", "stop"]
 }
+{
+  "name": "BetterIVLE",
+  "author": "Danny Lim",
+  "description": "A userscript to slightly improve the new IVLE interface.",
+  "url": "https://github.com/limchd/BetterIVLE",
+  "icon_url": "https://raw.githubusercontent.com/limchd/BetterIVLE/master/BIVLE%20Icon.png",
+  "repository_url": "https://github.com/limchd/BetterIVLE",
+  "tags": ["IVLE", "userscript"]
+}
 ])
