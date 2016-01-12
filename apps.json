@@ -88,7 +88,7 @@ callback([
   "author": "Danny Lim",
   "description": "A Chrome extension to slightly improve the new IVLE interface.",
   "url": "https://chrome.google.com/webstore/detail/betterivle/lkkiaeclgoijemglimcllfgcaclocjdh",
-  "icon_url": "https://raw.githubusercontent.com/limchd/BetterIVLE/master/BIVLE%20Icon.png",
+  "icon_url": "https://raw.githubusercontent.com/limchd/BetterIVLE/master/images/icon128.png",
   "repository_url": "https://github.com/limchd/BetterIVLE",
   "tags": ["ivle", "chrome"]
 }
