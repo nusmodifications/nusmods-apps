@@ -86,10 +86,10 @@ callback([
 {
   "name": "BetterIVLE",
   "author": "Danny Lim",
-  "description": "A userscript to slightly improve the new IVLE interface.",
-  "url": "https://github.com/limchd/BetterIVLE",
+  "description": "A Chrome extension to slightly improve the new IVLE interface.",
+  "url": "https://chrome.google.com/webstore/detail/betterivle/lkkiaeclgoijemglimcllfgcaclocjdh",
   "icon_url": "https://raw.githubusercontent.com/limchd/BetterIVLE/master/BIVLE%20Icon.png",
   "repository_url": "https://github.com/limchd/BetterIVLE",
-  "tags": ["IVLE", "userscript"]
+  "tags": ["ivle", "chrome"]
 }
 ])
