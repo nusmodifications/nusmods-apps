@@ -5,7 +5,7 @@ callback([
   "author": "Michael Yong",
   "url": "http://modivle.ymichael.com/",
   "repository_url": "https://github.com/ymichael/modivle",
-  "icon_url": "https://raw.githubusercontent.com/nusmodifications/modivle/master/public/img/logo/logoforfb.png",
+  "icon_url": "https://raw.githubusercontent.com/ymichael/modivle/master/images/logo/logoforfb.png",
   "tags": ["ivle", "client", "modivle"]
 },
 {
