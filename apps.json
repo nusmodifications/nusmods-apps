@@ -1,4 +1,13 @@
-callback([
+callback(
+[
+{
+  "name": "NUS Past Year Papers Downloader",
+  "author": "Oh Shunhao, Liu Xinan and Tay Yang Shun",
+  "description": "A helpful tool for you to download past year papers from the library portals easily.",
+  "url": "http://exams.nusmods.com",
+  "icon_url": "http://exams.nusmods.com/img/nus-exams-macbook.png",
+  "tags": ["examinations", "downloader"]
+},
 {
   "name": "MODIVLE",
   "description": "An NUS IVLE client. IVLE minus the clutter!",
@@ -9,15 +18,6 @@ callback([
   "tags": ["ivle", "client", "modivle"]
 },
 {
-  "name": "NUS IVLE Downloader",
-  "description": "Dropbox-like solution to automatically download IVLE workbin files into your computer!",
-  "author": "Yao Yujian",
-  "url": "http://yjyao.com/2012/08/nus-ivle-downloader.html",
-  "repository_url": "https://github.com/yyjhao/IVLEDownloader",
-  "icon_url": "https://raw.githubusercontent.com/yyjhao/IVLEDownloader/master/icon-256.png",
-  "tags": ["ivle", "downloader", "dropbox", "files"]
-},
-{
   "name": "Matriculation Number Calculator",
   "author": "Eu Beng Hee",
   "description": "Get the last digit of an NUS student's matriculation number!",
@@ -25,6 +25,15 @@ callback([
   "repository_url": "https://github.com/nusmodifications/nus-matriculation-number-calculator",
   "icon_url": "https://raw.githubusercontent.com/nusmodifications/nus-matriculation-number-calculator/gh-pages/apple-touch-icon.png",
   "tags": ["matriculation", "number", "calculator"]
+},
+{
+  "name": "NUS IVLE Downloader",
+  "description": "Dropbox-like solution to automatically download IVLE workbin files into your computer!",
+  "author": "Yao Yujian",
+  "url": "http://yjyao.com/2012/08/nus-ivle-downloader.html",
+  "repository_url": "https://github.com/yyjhao/IVLEDownloader",
+  "icon_url": "https://raw.githubusercontent.com/yyjhao/IVLEDownloader/master/icon-256.png",
+  "tags": ["ivle", "downloader", "dropbox", "files"]
 },
 {
   "name": "NUS IVLE",
@@ -43,28 +52,12 @@ callback([
   "tags": ["next", "bus", "stop"]
 },
 {
-  "name": "NUS Exam Timetable",
-  "author": "NUS",
-  "description": "Check the exam venues and seat numbers of the modules you are taking.",
-  "url": "https://aces01.nus.edu.sg/examtt/",
-  "icon_url": "https://raw.githubusercontent.com/nusmodifications/nusmods-apps/gh-pages/images/nus-logo.png",
-  "tags": ["examinations", "timetable"]
-},
-{
   "name": "NUS Carparks",
   "author": "NUS",
   "description": "Get up-to-the-minute carparks availability information within the National University of Singapore (NUS). The application also comes with detailed maps of the carparks locations and the user's current location in NUS.",
   "url": "https://itunes.apple.com/sg/app/nus-carparks/id574346885?mt=8",
   "icon_url": "http://a3.mzstatic.com/us/r30/Purple/v4/dc/d8/f1/dcd8f172-1446-9213-7596-41d779e8fa51/icon350x350.png",
   "tags": ["car", "carparks", "vehicles"]
-},
-{
-  "name": "NUS Past Year Papers Downloader",
-  "author": "Oh Shunhao, Liu Xinan and Tay Yang Shun",
-  "description": "A helpful tool for you to download past year papers from the library portals easily.",
-  "url": "http://exams.nusmods.com",
-  "icon_url": "http://exams.nusmods.com/img/nus-exams-macbook.png",
-  "tags": ["examinations", "downloader"]
 },
 {
   "name": "NUS Cap Calculator",
@@ -92,4 +85,5 @@ callback([
   "repository_url": "https://github.com/limchd/BetterIVLE",
   "tags": ["ivle", "chrome"]
 }
-])
+]
+)
