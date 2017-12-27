@@ -8,6 +8,14 @@
   "tags": ["examinations", "downloader"]
 },
 {
+  "name": "IVLEBot (Beta)",
+  "description": "🤖 @IVLEBot: A better IVLE interface",
+  "author": "Karen Ang",
+  "url": "https://telegram.me/IVLEBot",
+  "icon_url": "https://raw.githubusercontent.com/nusmodifications/nusmods-apps/gh-pages/images/ivle-bot-logo.jpg",
+  "tags": ["ivle", "bot"]
+},
+{
   "name": "MODIVLE",
   "description": "An NUS IVLE client. IVLE minus the clutter!",
   "author": "Michael Yong",
