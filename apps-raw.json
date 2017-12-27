@@ -12,6 +12,7 @@
   "description": "🤖 @IVLEBot: A better IVLE interface",
   "author": "Karen Ang",
   "url": "https://telegram.me/IVLEBot",
+  "repository_url": "https://github.com/karen/ivle-bot",
   "icon_url": "https://raw.githubusercontent.com/nusmodifications/nusmods-apps/gh-pages/images/ivle-bot-logo.jpg",
   "tags": ["ivle", "bot"]
 },
