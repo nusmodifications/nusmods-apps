@@ -1,11 +1,11 @@
 [
 {
   "name": "NUS Buses",
-  "description": "Need up-to-date bus timings on your favourite bus stops? Unsure of which buses to take? Introducing the new NUS Buses app, with its modern UI that is responsive and intuitive, making your journeys a better experience. NUS Buses comes with your favourite real time bus arrivals, bus routes and even the ability to save your the bus stops you frequent often as your favourites.",
+  "description": "Need up-to-date bus timings on your favourite bus stops? Unsure of which buses to take? Introducing the new NUS Buses app, with its modern UI that is responsive and intuitive, making your journeys a better experience. NUS Buses comes with your favourite real time bus arrivals, bus routes and even the ability to favourite the bus stops you frequent.",
   "author": "Marcus Koh Chi Hao",
   "url": "https://goo.gl/jSDnQM",
   "icon_url": "https://scontent.fsin3-1.fna.fbcdn.net/v/t1.0-1/p480x480/26113864_141658423281922_7246164886583028167_n.png?oh=54f8df88a59e21963907eb30d2d1319e&oe=5AFCD837",
-  "tags": ["bus","stop", "buses"]
+  "tags": ["bus", "stop", "buses"]
 },  
 {
   "name": "NUS Past Year Papers Downloader",
