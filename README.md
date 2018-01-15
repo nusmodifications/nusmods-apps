@@ -1,9 +1,11 @@
-NUSMods Apps
-============
+# NUSMods Apps
 
 Many students of NUS have created many awesome apps that will benefit the student population. Share them to the world via NUSMods! This is a repository for links to NUS-related apps that will be useful to NUS students.
 
+## Contributing
+
 Modify `apps.json` and submit a pull request! Please adhere to the following format:
+
 ```
 {
   "name": "Name of the application",
@@ -15,3 +17,5 @@ Modify `apps.json` and submit a pull request! Please adhere to the following for
   "tags": ["list", "of", "strings"]
 }
 ```
+
+Add your app to the bottom of the list.
