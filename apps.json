@@ -7,7 +7,7 @@
     "url": "http://exams.nusmods.com",
     "icon_url": "http://exams.nusmods.com/img/nus-exams-macbook.png",
     "tags": ["examinations", "downloader"]
-  },
+  }, 
   {
     "name": "Paperbaton",
     "description":
@@ -131,5 +131,22 @@
     "icon_url":
       "https://assets.getpebble.com/api/file/PYUmPYRjSKqAtYfXdUv9/convert?cache=true&fit=crop&w=144&h=168",
     "tags": ["next", "bus", "stop"]
+  },  
+  {
+    "name": "Variora",
+    "description":
+      "Variora is a web-based collaborative annotation tool that facilitates communication among students and their instructors, centered around better understanding of course reading material.",
+    "author": "Variora Team",
+    "url": "https://www.variora.io",
+    "icon_url":
+      "https://raw.githubusercontent.com/nusmodifications/nusmods-apps/gh-pages/images/variora-logo.png",
+    "tags": [
+      "discussion",
+      "collaboration",
+      "annotations",
+      "examinations",
+      "tutorials",
+      "mid-term"
+    ]
   }
 ]
