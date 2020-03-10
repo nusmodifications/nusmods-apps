@@ -9,23 +9,6 @@
     "tags": ["examinations", "downloader"]
   },
   {
-    "name": "Paperbaton",
-    "description":
-      "Paperbaton is a student community for students to sell and buy past year mid-term and final paper solutions, study guides and helpsheets.",
-    "author": "Sam Mauris Yong",
-    "url": "https://paperbaton.com",
-    "icon_url":
-      "https://raw.githubusercontent.com/nusmodifications/nusmods-apps/gh-pages/images/paperbaton-logo.png",
-    "tags": [
-      "examinations",
-      "buy",
-      "sell",
-      "mid-term",
-      "cheatsheets",
-      "helpsheets"
-    ]
-  },
-  {
     "name": "NUS Buses",
     "description":
       "Need up-to-date bus timings on your favourite bus stops? Unsure of which buses to take? Introducing the new NUS Buses app, with its modern UI that is responsive and intuitive, making your journeys a better experience. NUS Buses comes with your favourite real time bus arrivals, bus routes and even the ability to favourite the bus stops you frequent.",
