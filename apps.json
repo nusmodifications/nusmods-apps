@@ -114,5 +114,16 @@
     "icon_url":
       "https://assets.getpebble.com/api/file/PYUmPYRjSKqAtYfXdUv9/convert?cache=true&fit=crop&w=144&h=168",
     "tags": ["next", "bus", "stop"]
+  },
+  {
+    "name": "uWave",
+    "description":
+      "uWave is a student all-in-one mobile app 📆 Student Timetable, ⏱ Finals countdown in Timetable, 🚌 Public Bus Timings + Campus Shuttle Location, 📍 NUS Campus Maps, 💬 NUS Discussions, 🏓 List of all CCAs in NUS, 🧧 Student discounts",
+    "author": "Wave",
+    "url":
+      "https://uwave.sg/download",
+    "icon_url":
+      "https://assets.getpebble.com/api/file/PYUmPYRjSKqAtYfXdUv9/convert?cache=true&fit=crop&w=144&h=168",
+    "tags": ["productivity", "education", "lifestyle", "bus", "stop"]
   }
 ]
