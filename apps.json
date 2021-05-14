@@ -61,5 +61,13 @@
     "icon_url":
       "https://play-lh.googleusercontent.com/a9mD7W6FDPFmGVllWCcja_3I9ynoHHSITEn_bVhq01X7aHMXC-tv8SKCDxLu04Q6-6U%3Ds360-rw",
     "tags": ["productivity", "education", "lifestyle", "bus", "stop"]
+  },
+  {
+    "name": "From The Future",
+    "description": "A simple & easy way to add & view advice for NUS Computing freshmen.",
+    "author": "Liu Yongliang",
+    "url": "https://tlylt.github.io/from-the-future/",
+    "icon_url": "https://raw.githubusercontent.com/tlylt/from-the-future/master/public/android-chrome-512x512.png",
+    "tags": ["education", "life", "advice"]
   }
 ]
