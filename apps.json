@@ -69,5 +69,14 @@
     "url": "https://tlylt.github.io/from-the-future/",
     "icon_url": "https://raw.githubusercontent.com/tlylt/from-the-future/master/public/android-chrome-512x512.png",
     "tags": ["education", "life", "advice"]
+  },
+  {
+  "name": "Lominus",
+  "description": "Lominus is a tool to automatically sync Luminus files onto your local storage for easy access at a fixed interval of your choice, amongst many other features. It is designed to run on Windows, macOS and Linux operating systems.",
+  "author": "Lee Jia Wei and Lee Jia Jun",
+  "url": "https://github.com/Beebeeoii/lominus/releases",
+  "repository_url": "https://github.com/Beebeeoii/lominus",
+  "icon_url": "https://github.com/Beebeeoii/lominus/blob/master/assets/app-icon.png?raw=true",
+  "tags": ["luminus", "file", "sync"]
   }
 ]
