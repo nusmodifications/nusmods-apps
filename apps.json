@@ -69,5 +69,13 @@
     "url": "https://tlylt.github.io/from-the-future/",
     "icon_url": "https://raw.githubusercontent.com/tlylt/from-the-future/master/public/android-chrome-512x512.png",
     "tags": ["education", "life", "advice"]
+  },
+  {
+    "name": "NUSAbroad",
+    "description": "Compare universities, find past mappings and plan your exchange application, right here at NUSAbroad.",
+    "author": "Audrey Felicio Anwar, Chester How, Dylan Ghee and Goh Wen Hao",
+    "url": "https://nusabroad.com",
+    "icon_url": "https://i.imgur.com/NQ1yIii.png",
+    "tags": ["exchange", "SEP", "planner"]
   }
 ]
