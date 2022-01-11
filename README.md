@@ -1,6 +1,6 @@
 # NUSMods Apps
 
-Many students of NUS have created many awesome apps that will benefit the student population. Share them to the world via NUSMods! This is a repository for links to NUS-related apps that will be useful to NUS students.
+Many students of NUS have created many awesome apps that will benefit the student population. Share them to the world via [NUSMods](https://nusmods.com/apps)! This is a repository for links to NUS-related apps that will be useful to NUS students.
 
 ## Contributing
 
